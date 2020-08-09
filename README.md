@@ -1,5 +1,5 @@
 ## Hey there welcome to my github profile 👋
-![alt text](https://tech.small-improvements.com/wp-content/uploads/2018/02/2018-02-07-17-37-09.gif)
+![alt text](https://s3.amazonaws.com/com.twilio.prod.twilio-docs/original_images/Ckoh0fclmhK-ctyxM4R574JSKVCqlcjYYsCIztls694TgNnFQUSbz47TbF_DmHgzseRvaRt1tt.png)
 
 ### I am a full stack developer enthusiast, i usually work in MERN stack.
 
