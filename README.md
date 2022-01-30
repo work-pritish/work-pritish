@@ -1,11 +1,11 @@
 
 ### Hi there, I'm Pritish 👋
 
-## I'm a Full Stack Developer, who love to code! 
+## I'm a Full Stack Developer, coding enthusiast, fitness freak! 
 
 - 📚 I’m currently mastering DS ALGO and problem solving.
 - 👯 Team player, love to collab with people over codes
-- 🥅 2021 Goal: Crack a product base company before getting passout.
+- 🥅 2022 Goal - Upskilling on backend.
 - ⚡ Fun fact: I love to make people smile 
 
 ### Languages and Tools:
